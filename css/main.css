@@ -2,9 +2,8 @@
 
 html{
     background-color: bisque;
+    border: 1px solid black;
 }
 
-div{
-    border: 2px solid black;
-}
+
 
